@@ -7,10 +7,10 @@ http://www.templatemo.com/tm-498-stimulus
 */
 
 body {
-	background: #ffffff;
+  background: #ffffff;
     font-family: 'Source Sans Pro', sans-serif;
     font-style: normal;
-	font-weight: 300;
+  font-weight: 300;
     overflow-x: hidden;
 }
 
@@ -280,12 +280,12 @@ a:hover, a:active, a:focus {
 
 .custom-navbar {
     margin-bottom: 0;
-    background-color: #ffffff;
+    background-color: transparent;
 }
 
 .custom-navbar .navbar-brand {
     color: #3504f4;
-	/*text-shadow: 1px 1px #fff;*/
+  /*text-shadow: 1px 1px #fff;*/
     font-weight: bold;
     font-size: 24px;
     line-height: 35px;
@@ -336,8 +336,9 @@ a:hover, a:active, a:focus {
   background: rgba(25, 25, 25, 0.91);
 }
 
-@media (min-width:768px) {
-    .custom-navbar {
+@media only screen and (min-width : 768px) and (max-width : 1024px) {
+/* Styles */
+ .custom-navbar {
         padding: 12px 0;
         border-bottom: 0;
         background: 0 0; 
@@ -349,12 +350,29 @@ a:hover, a:active, a:focus {
     }
     .navbar-header {
 
-        max-width: 28%;
+        max-width: 23% !important;
     }
     .logo-image {
-      width: 100%;
+      width: 100% !important;
+      margin-top: 13px;
     }
 
+    .main-title {
+      margin-left: 10px !important;
+      margin-bottom: 38px;
+    }
+    .background-image.experience-img {
+     min-height: 78vh !important;
+    }
+
+    #experience h2 {
+      font-size: 46px;
+    }
+    #home .home-thumb {
+
+      padding: 0 0px 0 0px !important;
+      height: 75vh !important;
+    }
 }
 
 
