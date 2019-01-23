@@ -128,7 +128,7 @@ p {
 #contact .container {
   width: 100%;
   padding: 0;
-  margin: 0;
+  margin-left: 0;
 }
 
 #experience .experience-thumb,
