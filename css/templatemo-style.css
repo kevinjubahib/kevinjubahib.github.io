@@ -660,6 +660,7 @@ background: url('../images/home_bg.jpg');
   background: url(../images/galaxy-bg.jpg);
   background-repeat: no-repeat;
   background-size: cover;
+  background-attachment: fixed;
 
 }
 #contact.galaxy-section {
