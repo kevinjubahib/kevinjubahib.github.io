@@ -1219,4 +1219,8 @@ h2 {
   .main-title.page-title-top{
     margin-left: 0 !important;
   }
+  .main-title.page-title-top h2{
+    font-size: 40px;
+    line-height: 1em:;
+  }
 }
