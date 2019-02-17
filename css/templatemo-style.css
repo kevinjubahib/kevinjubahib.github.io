@@ -1216,10 +1216,10 @@ h2 {
 }
 
 @media (min-width: 320px) and (max-width: 600px) {
-  .main-title.page-title-top{
+  .main-title {
     margin-left: 0 !important;
   }
-  .main-title.page-title-top h2{
+  .main-title.page-title-top h2 {
     font-size: 40px;
     line-height: 1em:;
   }
