@@ -1262,7 +1262,7 @@ h2 {
     width: 70%;
   }
   #about .skill-thumb {
-    padding: 0px;
+    padding: 0px !important;
   }
   #about.parallax-section .about-say {
     margin-top: 0; 
