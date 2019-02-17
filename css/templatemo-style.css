@@ -1276,4 +1276,7 @@ h2 {
   .skill-thumb h2 {
     margin: 0 !important;
   }
+  #service .height426 {
+    min-height: 0px;
+  }
 }
