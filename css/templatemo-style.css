@@ -1214,3 +1214,9 @@ h2 {
 
     color: #fff;
 }
+
+@media (min-width: 320px) and (max-width: 600px) {
+  .main-title.page-title-top{
+    margin-left: 0;
+  }
+}
