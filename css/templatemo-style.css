@@ -1139,7 +1139,7 @@ h3.social-title{
     text-align: center;
   }
 }
-@media(max-width: 768px){
+@media (min-width: 768px) and (max-width: 1023px){
   #about.parallax-section .about-img{
     min-height: 67.7vh;
   }
