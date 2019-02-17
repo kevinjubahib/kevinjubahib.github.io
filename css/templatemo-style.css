@@ -1258,4 +1258,7 @@ h2 {
     width: 50%;
     padding: 5px;
   }
+  .content.project-page {
+    width: 70%;
+  }
 }
