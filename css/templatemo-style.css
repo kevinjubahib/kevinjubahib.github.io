@@ -1261,4 +1261,16 @@ h2 {
   .content.project-page {
     width: 70%;
   }
+  #about .skill-thumb {
+    padding: 0px;
+  }
+  #about.parallax-section .about-say {
+    margin-top: 0; 
+  }
+  .about-thumb img {
+    margin-top: -15%;
+  }
+  #about .social-icon {
+    padding-bottom: 20px;
+  }
 }
