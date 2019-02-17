@@ -1226,4 +1226,15 @@ h2 {
   #home .row {
      margin-left: 0px !important; 
   }
+  .navbar-header {
+    max-width: 100%;
+  }
+  #home h1 {
+    padding-right: 0 !important; 
+    font-size: 28px !important: 
+  }
+  #home .home-thumb p {
+    padding-right: 0 !important; 
+    letter-spacing: 0em !important;
+  }
 }
