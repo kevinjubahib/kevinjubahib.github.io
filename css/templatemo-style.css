@@ -1279,4 +1279,7 @@ h2 {
   #service .height426 {
     min-height: 0px;
   }
+  .navbar-collapse.collapse.in {
+        background: rgba(249, 249, 249, 0.96);
+  }
 }
