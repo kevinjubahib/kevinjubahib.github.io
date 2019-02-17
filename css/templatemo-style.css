@@ -1220,7 +1220,7 @@ h2 {
     margin-left: 0 !important;
   }
   .main-title.page-title-top h2 {
-    font-size: 40px;
-    line-height: 1em:;
+    font-size: 40px !important;
+    line-height: 1em !important;
   }
 }
