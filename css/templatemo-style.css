@@ -1223,4 +1223,7 @@ h2 {
     font-size: 40px !important;
     line-height: 1em !important;
   }
+  #home .row {
+     margin-left: 0px !important; 
+  }
 }
