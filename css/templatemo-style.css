@@ -1254,4 +1254,8 @@ h2 {
    
     padding-top: 12px;
   }
+  .logo-image {
+    width: 50%;
+    padding: 5px;
+  }
 }
