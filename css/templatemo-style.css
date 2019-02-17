@@ -1268,7 +1268,7 @@ h2 {
     margin-top: 0; 
   }
   .about-thumb img {
-    margin-top: -15%;
+    margin-top: 0 !important;
   }
   #about .social-icon {
     padding-bottom: 20px;
