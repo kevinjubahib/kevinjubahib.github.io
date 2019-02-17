@@ -1273,4 +1273,7 @@ h2 {
   #about .social-icon {
     padding-bottom: 20px;
   }
+  .skill-thumb h2 {
+    margin-right: 0 !important;
+  }
 }
