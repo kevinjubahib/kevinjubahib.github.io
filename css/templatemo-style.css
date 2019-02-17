@@ -1161,6 +1161,10 @@ h3.social-title{
   #about.parallax-section .about-say{
     margin-top: 7%;
   }
+  .row {
+
+    margin-right: 0px
+  }
 }
 @media(max-width: 600px){
   #project .graphic-section .center-vertical{
