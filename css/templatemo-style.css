@@ -1287,6 +1287,6 @@ h2 {
         background: rgba(249, 249, 249, 0.96);
   }
   #contact .bg-dark.col-md-3.col-sm-6 {
-    width: 0px!important;
+    width: 100% !important;
   }
 }
