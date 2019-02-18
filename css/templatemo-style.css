@@ -1289,4 +1289,9 @@ h2 {
   #contact .bg-dark.col-md-3.col-sm-6 {
     width: 100% !important;
   }
+  .experience-thumb h2 {
+    margin-bottom: 0px !important; 
+    margin-top: 0px !important;
+
+  }
 }
